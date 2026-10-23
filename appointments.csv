@@ -1,0 +1,13 @@
+visit_id,patient_id,clinic,visit_type,wait_minutes,cost,completed,visit_date
+101,1,North,Checkup,15.0,120,True,2026-01-05
+102,2,South,Follow-up,30.0,150,True,2026-01-06
+103,3,North,Urgent,55.0,280,True,2026-01-07
+104,1,East,Follow-up,20.0,140,False,2026-01-09
+105,4,South,Checkup,,110,True,2026-01-12
+106,5,East,Urgent,45.0,300,True,2026-01-14
+107,2,North,Checkup,10.0,120,True,2026-01-15
+108,6,South,Follow-up,35.0,160,True,2026-01-17
+109,7,East,Urgent,60.0,290,False,2026-01-20
+110,8,North,Checkup,25.0,130,True,2026-01-23
+111,3,South,Follow-up,40.0,155,True,2026-01-25
+112,9,East,Checkup,,115,True,2026-01-27
